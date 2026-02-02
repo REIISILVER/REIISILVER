@@ -1,16 +1,43 @@
-## Hi there 👋
+const developer = {
+  nombre: "Bryan Saltos",
+  titulo: "Ingeniero en Sistemas de la Información",
+  especialidad: "Desarrollo Full Stack",
+  tecnologias: {
+    backend: ["Laravel", "PHP", "Node.js"],
+    frontend: ["Angular", "TypeScript", "JavaScript"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    devOps: ["Docker", "Git", "CI/CD"],
+    herramientas: ["GitHub", "VS Code", "Postman"]
+  },
+  enfoque: "Arquitecturas escalables y soluciones eficientes",
+  nivelIngles: "B1 (en perfeccionamiento activo)"
+};
 
-<!--
-**REIISILVER/REIISILVER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 Proyecto 1: Sistema de Gestión con Dashboard
+Tecnologías: Laravel, Angular, PostgreSQL, Docker
 
-Here are some ideas to get you started:
+Dashboard interactivo para toma de decisiones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+API REST con autenticación JWT
+
+Despliegue con contenedores Docker
+
+🏆 Proyecto 2: Aplicación Web Full Stack
+Tecnologías: Node.js, Angular, MySQL
+
+Arquitectura escalable y modular
+
+Optimización de consultas a base de datos
+
+Interfaz responsiva y moderna
+
+🏆 Proyecto 3: API de Microservicios
+Tecnologías: Laravel, Docker, PostgreSQL
+
+Sistema basado en microservicios
+
+Comunicación asíncrona entre servicios
+
+Documentación Swagger/OpenAPI
+
+🎯 Enfoque y Metodología
