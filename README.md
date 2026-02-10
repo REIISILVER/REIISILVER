@@ -8,7 +8,7 @@ I specialize in building **scalable architectures** and **efficient software sol
 ### 🚀 About Me
 - 🎓 **Degree:** Information Systems Engineer.
 - 🛠️ **Current Focus:** Deepening my expertise in Full Stack development and DevOps.
-- 🌎 **Languages:** Spanish (Native) | **English (Intermediate - B1):** Actively improving to collaborate in international environments.
+- 🌎 **Languages:** Spanish (Native) | **English (Intermediate - B2):** Actively improving to collaborate in international environments.
 - ⚡ **Goal:** Building high-performance applications that deliver real value.
 
 ---
